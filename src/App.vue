@@ -2,7 +2,7 @@
   <div id="app">
     <b-container fluid>
       <h2 class="text-center m-4">AWS Price List API Explorer</h2>
-      <router-view/>
+      <router-view />
     </b-container>
   </div>
 </template>
